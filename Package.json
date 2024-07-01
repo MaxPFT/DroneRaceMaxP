@@ -1,9 +1,9 @@
 {
-  "name": "be.MaxP.DroneExo",
+  "name": "be.maxp.droneexo",
   "version": "0.0.1",
   "displayName": "DroneExoMaxP",
   "description": "This is my package",
-  "unity": "2018.1",
+  "unity": "2022.3",
   "unityRelease": "",
   "documentationUrl": "",
   "changelogUrl": "",
